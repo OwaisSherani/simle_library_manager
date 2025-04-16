@@ -1,0 +1,30 @@
+[
+    {
+        "title": "1",
+        "author": "The Night Circus",
+        "year": "2011",
+        "genre": "Magic ",
+        "read": false
+    },
+    {
+        "title": "State of Wonder",
+        "author": "Ann Patchett",
+        "year": "2011",
+        "genre": "Miracles & Spirituals",
+        "read": false
+    },
+    {
+        "title": "Home Fire",
+        "author": "Kamila Shamsi",
+        "year": "2017",
+        "genre": "Story",
+        "read": true
+    },
+    {
+        "title": "Burnt Shadows",
+        "author": "Kamila Shamsie",
+        "year": "2009",
+        "genre": "Story",
+        "read": true
+    }
+]
